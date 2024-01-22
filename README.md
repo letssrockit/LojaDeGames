@@ -14,7 +14,7 @@ O projeto abrange uma variedade de funcionalidades, incluindo:
 
 
 Estrutura do Projeto
-A estrutura do projeto deve seguir os padrões estabelecidos pelo Spring, com pacotes distintos para Model, Repository e Controller. Certifique-se de organizar o código de forma clara e compreensível.
+A estrutura do projeto deve seguir os padrões estabelecidos pelo Spring, com pacotes distintos para Model, Repository e Controller.
 
 Autora
 
