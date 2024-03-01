@@ -1,3 +1,5 @@
+![gaming (2)](https://github.com/letssrockit/LojaDeGames/assets/129013545/6fce44e2-cd0f-4fa7-bb21-4ee9966776e1)
+
 Backend para Loja de Games - Projeto Spring
 
 Bem-vindo ao projeto de construção do backend para uma Loja de Games utilizando o framework Spring. Este projeto tem como objetivo a manipulação de dados relacionados a produtos da loja, classificados por categorias. Abaixo estão as instruções detalhadas para a implementação do projeto:
